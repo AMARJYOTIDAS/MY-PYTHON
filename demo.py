@@ -5,6 +5,5 @@ print("hello wprld")
 # x =  (a+b)
 # print(x)
 for i in range (5):
-    for j in range  (5):
+  for j in range(5):
    
-
