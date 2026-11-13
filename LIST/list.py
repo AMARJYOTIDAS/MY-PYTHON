@@ -34,7 +34,18 @@
 
 # list indexing and slicing
 
-python = ['saithish', 'hrudaya', 'amar', 'amulya']
+# python = ['saithish', 'hrudaya', 'amar', 'amulya']
 
-print(python[-1])
-print(python[-2])
+# print(python[0])
+# print(python[1])
+# print(python[-1])
+# print(python[-2])
+
+# slicing
+
+num = [10,20,30,40,50]
+print(num[1:4])
+print(num[1:5])
+print(num[:4])
+print(num[3:])
+print(num[2:])
