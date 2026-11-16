@@ -7,15 +7,27 @@
 # no duplicate allows
 # can store different data types
 
-number = {10,20,30,20}
-print(number)
-number.remove(10)
-print(number)
+# number = {10,20,30,20}
+# print(number)
+# number.remove(10)
+# print(number)
 
-number1 = {10,20,30,20}
-number1.discard(30)
-print(number1)
+# number1 = {10,20,30,20,40, 50}
+# number1.discard(30)
+# print(number1)
 
+# number = {10,20,30,20}
+# number1 = {10,20,40, 50}
+# print(number.union(number1))
+# print(number.intersection(number1))
+# print(number.issubset(number1))
 
+# # difference is find the first not matching number/
+# print(number.difference(number1))
+# print(number.symmetric_difference(number1))
 
-
+a = {10,20,30}
+b = {40,50,20}
+print(a.intersection(b))
+print(a.symmetric_difference(b))
+print(a.difference(b))
