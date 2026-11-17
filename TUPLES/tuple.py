@@ -27,4 +27,4 @@
 #  print("not present")
 
 num = (10,10,20,20,30)
-print(num.__add__([10, 20, 30], ...))
+print(num)
