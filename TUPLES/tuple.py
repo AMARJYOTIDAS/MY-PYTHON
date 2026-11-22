@@ -28,3 +28,6 @@
 
 num = (10,10,20,20,30)
 print(num)
+print(len(num))
+print(num.count(10))
+print(num.index(20))
