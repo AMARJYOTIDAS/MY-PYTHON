@@ -1,0 +1,7 @@
+module is a python file that contain function,variables,and classes that can
+reuse in another function
+
+types:
+1. Build in Modules
+2. user-defined module
+3. thirt-party module
